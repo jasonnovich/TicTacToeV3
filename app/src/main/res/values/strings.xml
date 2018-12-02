@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="beforePlayerGoes">\?</string>
+    <string name="x1ST">X\'s Turn</string>
+    <string name="o1st">O\'s Turn</string>
+    <string name="checkWinner">Check for Winner</string>
+
+</resources>
